@@ -1,0 +1,2 @@
+# Tree-Sterility-Classification-using-ML-AI-project-
+The motivation behind this project is to apply supervised learning techniques to the real-world Tree Sterility Dataset, compare the results with 5 models that works best for classification problems— Neural Networks, Decision Tree, Logistic Regression, Random Forest, and KNN models and evaluate their effectiveness using multiple performance metrics.
